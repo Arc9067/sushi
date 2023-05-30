@@ -11,10 +11,10 @@ const Header = () => {
           sushi official
         </a>
         <div className="flex items-center gap-3">
-          <a href="" className="text-4xl">
+          <a href="https://t.me/Sushi_Erc" className="text-4xl">
             <RiTelegramLine />
           </a>
-          <a href="" className="text-4xl">
+          <a href="https://mobile.twitter.com/Sushi_erc" className="text-4xl">
             <RiTwitterLine />
           </a>
           <a href="" className="text-4xl">

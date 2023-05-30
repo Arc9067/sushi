@@ -15,7 +15,7 @@ const Hero = () => {
           of finance, one hilarious bite at a time!
         </p>
         <a
-          href=""
+          href="https://www.dextools.io/app/ether/pair-explorer/0xA6c12fC9FA0aBa593FaF30413b2c4445c858F3e6"
           className="bg-black capitalize text-2xl rounded-md px-6 py-3"
         >
           buy sushi

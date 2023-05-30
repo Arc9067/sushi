@@ -17,10 +17,16 @@ const Header = () => {
           <a href="https://mobile.twitter.com/Sushi_erc" className="text-4xl">
             <RiTwitterLine />
           </a>
-          <a href="" className="text-4xl">
+          <a
+            href="https://etherscan.io/token/0x4ea8eb8025b350aa6cd27134857668f0f2c166a6"
+            className="text-4xl"
+          >
             <img src={Etherscan} alt="" className="w-[2rem]" />
           </a>
-          <a href="" className="text-4xl">
+          <a
+            href="https://www.dextools.io/app/ether/pair-explorer/0xA6c12fC9FA0aBa593FaF30413b2c4445c858F3e6"
+            className="text-4xl"
+          >
             <img src={dextool} alt="" className="w-[2rem]" />
           </a>
         </div>

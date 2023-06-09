@@ -14,7 +14,7 @@ const Header = () => {
           <a href="https://t.me/sushi_ERC20" className="text-4xl">
             <RiTelegramLine />
           </a>
-          <a href="" className="text-4xl">
+          <a href="https://twitter.com/sushi_ERC20" target="_blank" className="text-4xl">
             <RiTwitterLine />
           </a>
           <a href="" className="text-4xl">

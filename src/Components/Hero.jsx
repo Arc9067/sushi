@@ -18,7 +18,7 @@ const Hero = () => {
         <p className=" max-w-[600px] mx-auto text-2xl md:flex flex-wrap items-center justify-center">
           Contract:{" "}
           <span className="text-xl block">
-            0x4eA8eB8025B350AA6Cd27134857668f0f2c166a6
+            000000000000000000000000000000000000
           </span>
         </p>
 
@@ -27,7 +27,7 @@ const Hero = () => {
         </p>
 
         <a
-          href="https://www.dextools.io/app/ether/pair-explorer/0xA6c12fC9FA0aBa593FaF30413b2c4445c858F3e6"
+          href=""
           className="bg-black capitalize text-2xl rounded-md px-6 py-3"
         >
           buy sushi
